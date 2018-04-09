@@ -1,3 +1,51 @@
 .logo{
     height: 28px;
 }
+.nav-link{
+    color: #222f3e !important;
+}
+
+.text-principal{
+    width: 100%;
+    margin: 100px auto;
+    min-height: 20rem;
+}
+
+.text-principal h1{
+    font-weight: 400;
+    text-align: center;
+}
+.devbrow{
+    color: #ee5253;
+}
+.carlos{
+    color: #0abde3;
+}
+.es{
+    font-style: italic;
+    color: #222f3e;
+}
+a.fa {
+    background: #ee5253;
+    height: 40px;
+    width: 40px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: #fff !important;
+}
+.tel{
+     color: #fff !important;
+}
+.tel span{
+    margin: 0 8px;
+}
+
+footer{
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    color: #fff;
+    background: #ff6b6b;
+}
