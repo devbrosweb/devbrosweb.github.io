@@ -30,7 +30,7 @@ a.fa {
     height: 40px;
     width: 40px;
     line-height: 20px;
-    text-align: center;
+    text-align: center;                             
     border-radius: 50%;
     margin-right: 10px;
     color: #fff !important;
@@ -48,4 +48,7 @@ footer{
     color: #fff;
     color: #fff;
     background: #ff6b6b;
+    font-size: 14px;
+    font-style: italic;
+}
 }
